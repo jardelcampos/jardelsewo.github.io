@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Science Projects / Machine Learning:</h2>
 
 - <b>Dengue Recgonition using Machine Learning in Parana</b>
-  - [ETL - Using python to filter Analysis and prepare data](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ETL - Using python to filter Analysis and prepare data](https://github.com/jardelsewo/analise_dengue)
   - [Machine Learning - Using python and many Machine Learning library to find the best algorithm](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Chatbot (Python, NLP, Deep Learning Components, Java, Flask and mysql)</b>
   - [Create chatbot that improves through time](github) <b>
