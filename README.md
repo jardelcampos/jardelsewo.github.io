@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jardel Campos! <br/><a href="github">Data Science</a>, <a href="[linkedin.com/in/jardel-campos-788030113](https://www.linkedin.com/in/jardel-campos-788030113/)">Linkedin</a></h1>
+<h1>Hi, I'm Jardel Campos! <br/><a href="github">Data Science</a>, <a href="https://www.linkedin.com/in/jardel-campos-788030113/">Linkedin</a></h1>
 
 <h2>👨‍💻 Data Science Projects / Machine Learning:</h2>
 
@@ -14,7 +14,7 @@
 
 [<img align="left" alt="Jardel | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]:[linkedin.com/in/jardel-campos-788030113](https://www.linkedin.com/in/jardel-campos-788030113/)
+[linkedin]:https://www.linkedin.com/in/jardel-campos-788030113/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
